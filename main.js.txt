@@ -2,3 +2,4 @@ const a =document.querySelector("a")
 i see this is better
 i force
 fork
+i prefer js
